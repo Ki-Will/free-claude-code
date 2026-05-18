@@ -6,7 +6,6 @@ __pycache__
 .serena
 .venv
 agent_workspace
-.env
 /logs/
 server.log
 /server.*.log
@@ -14,5 +13,10 @@ debug-*.log
 .coverage
 llama_cache
 .smoke-results
-.vscode
 server.*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
